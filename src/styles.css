@@ -1,0 +1,71 @@
+h1,
+h2,
+h3 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+strong {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.background {
+  max-width: 600px;
+  margin: 10px auto;
+  padding: 30px 0px 15px 30px;
+  border: 0.5px solid gainsboro;
+  font-family: "Didact Gothic", sans-serif;
+}
+
+.enter-city {
+  margin-right: 30px;
+  padding: 10px;
+  border: 0.5px solid gainsboro;
+  background-color: #d7ecfd;
+}
+
+.current {
+  position: relative;
+  top: -45px;
+  right: -395px;
+}
+
+.display {
+  margin-right: 30px;
+  padding: 10px;
+  border: 0.5px solid gainsboro;
+}
+
+.description {
+  margin-right: 30px;
+  padding: 10px;
+  border: 1px solid none;
+  background-color: lightskyblue;
+}
+
+.display-logo {
+  font-size: 140px;
+}
+
+.parameters-a {
+  position: relative;
+  left: 45px;
+}
+
+.day {
+  margin-right: 30px;
+  padding: 10px;
+  border: 0.5px solid gainsboro;
+  background-color: steelblue;
+}
+
+.day-parameters {
+  position: relative;
+  top: 13px;
+}
+
+.day-logo {
+  font-size: 50px;
+  position: relative;
+  bottom: 10px;
+}
